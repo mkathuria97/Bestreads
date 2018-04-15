@@ -1,6 +1,4 @@
 <?php
-	#Name: Mayank Kathuria
-	#Student Number: 1534791
 	#To make web services to generate a variety of data about different books and allow Ajax to
 	#retrieve it
 	$mode = $_GET["mode"];
