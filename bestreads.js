@@ -1,5 +1,3 @@
-//Name: Mayank Kathuria
-//Student Number: 1534791
 //Use Ajax to fetch data in text, XML and JSON formats and display the initial page with all
 //the books or descriptive information about the selected book
 (function(){
